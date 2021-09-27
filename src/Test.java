@@ -27,7 +27,7 @@ public class Test {
             System.out.println("parne");
         }
 
-
+        String s = price%2 == 0 ? "":"";
 
     }
 }
